@@ -1,0 +1,45 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.color-dark{
+background-color: #f7ad7afa;
+}
+
+.color-light{
+    background-color:#eec7ac;
+
+}
+
+.table-wrap{
+    width: 100%;
+}
+
+table, tr,th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+table{
+    width: 80%;
+    margin: 50px auto;
+}
+
+th{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1rem;
+    text-align: left;
+    height: 25px;
+}
+
+th, td{
+    padding: 2px 5px;
+}
+
+td{
+    height: 30px;
+}
+
+
